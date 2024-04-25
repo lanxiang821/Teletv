@@ -1,5 +1,7 @@
 <resources>
     <string name="app_name">天翼超高清</string>
-    <string name="url">https://hb.118114.net/telecom/demo/ad-android</string>
+    <string name="url">https://ad.besttone.com.cn/telecom/demo/ad-android</string>
     <string name="skip">跳过</string>
+    <string name="loading_url"></string>
+    <string name="loading_img_url">https://img1.360buyimg.com/pop/jfs/t1/236919/10/14732/100527/65f8e45aFcdcd43f7/91672e280e6f6cca.jpg</string>
 </resources>
